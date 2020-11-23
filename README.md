@@ -56,6 +56,10 @@ For a comprehensive list of service meshes around, have a look at : [Service Mes
 ## Projects
 [The multi-service mesh management plane : Meshery](https://meshery.io/) 
 
+## Example Projects
+[Example with Istio](https://github.com/ewolff/microservice-istio)
+[Example with Linkerd](https://github.com/ewolff/microservice-linkerd)
+
 ---
 ### Contributing
 -   Please contribute to making this list really awesome, exhaustive, and up to date, all contributions are Welcome!
